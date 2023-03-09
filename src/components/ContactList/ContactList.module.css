@@ -1,0 +1,13 @@
+.list {
+display: flex;
+flex-direction: column;
+gap: 0.5rem;
+}
+.item {
+display: flex;
+align-items: center;
+gap: 1rem;
+}
+.button {
+    cursor: pointer;
+}
